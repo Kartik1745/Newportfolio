@@ -7,7 +7,7 @@ import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
 import portfolio from "@/public/portfolio.png";
 import hangman from "@/public/hangman.png";
-import task from "@/public/task Tracker.png";
+import task from "@/public/Task_Tracker.png";
 
 export const links = [
   {
