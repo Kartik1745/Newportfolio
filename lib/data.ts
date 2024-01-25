@@ -62,7 +62,7 @@ export const projectsData = [
       "A simple hangman game built with React, Express js and MongoDB. A user can play the game and see the leaderboard.",
     tags: ["React","HTML","CSS","Express js","MongoDB"],
     imageUrl: hangman,
-    LiveDemo: "https://lighthall-team60-hangman.vercel.app/",
+    LiveDemo: "https://hangman-virid-tau.vercel.app/",
     SourceCode: "https://github.com/Kartik1745/LightHall-Level3",
   },
   {
