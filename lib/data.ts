@@ -58,7 +58,7 @@ export const experiencesData = [
     date: "2021 - 2022",
   },
   {
-    title: "Associate Software Engineer",
+    title: "Full-Stack Engineer",
     location: "Pune, India",
     description:"At Edurun Group, I engineered a scalable job portal architecture using Django and Next.js, significantly enhancing performance and user retention. I implemented data sharding, optimized SQL operations, and integrated parallel processing solutions to achieve substantial reductions in latency and delivery time.",
       // "• Implemented a robust web services and Micro-services architecture with Node Js, Kubernetes and Docker, to seamlessly integrate with third-party systems. \n • Collaborated closely with a cross-functional development team to Enhance system scalability and reliability through the design and implementation of optimized server-side code, leading to a notable 30% boost in traffic capacity. \n• Implemented secure authentication and authorization solutions, ensuring the protection of sensitive customer data and reducing the risk of security breaches \n• Integrated the Salesforce CRM system with various third-party APIs, resulting in a 30% increase in lead conversion rates and a 20% increase in customer retention. \n• Engineered app integrations with REST, SOAP, and various other APIs to facilitate fraud detection within the payment processing system resulting in a notable reduction of 20% in fraudulent accounts, significantly enhancing security.",
